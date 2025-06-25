@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SoDim
-- 👀 I’m interested in .NET MAUI cross platform development.
-- 🌱 I’m currently learning the latest .NET MAUI/C# & MVVM in Visual Studio 2023.
+- 👀 I’m interested in .NET MAUI cross platform development, AI/ML with Python and Visual Studio.
+  
+-
 - 📫 How to reach me: sean.web001@gmail.com
 - Happy Coding,
 - Sincerely,
